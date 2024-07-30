@@ -15,7 +15,7 @@ export default function Page() {
 
         <main className="flex items-center justify-center px-8 py-8 sm:px-12 lg:col-span-7 lg:px-16 lg:py-12 xl:col-span-6">
           <div className="max-w-xl lg:max-w-3xl transform scale-150">
-            <div className="ml-20">
+            <div className="ml-20 lg:ml-8 xl:ml-16">
               <SignIn
                 appearance={{
                   baseTheme: neobrutalism,
